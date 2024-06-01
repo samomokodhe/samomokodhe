@@ -1,8 +1,8 @@
 ## Hi there 👋
     My name is Sam and I am seeking to become an Electrical Controls Engineer!
 
-Website: https://samomokodhe.github.io/
-LinkedIn: https://www.linkedin.com/in/samuel-omokodhe/
+- Website: https://samomokodhe.github.io/
+- LinkedIn: https://www.linkedin.com/in/samuel-omokodhe/
 
 <!--
 **samomokodhe/samomokodhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
